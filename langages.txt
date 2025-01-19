@@ -3,7 +3,7 @@ texts = [
      "语言是人与人之间沟通的重要工具。通过学习一种新语言，我们可以更好地了解不同文化的背景和习俗，同时扩大我们的国际视野。",
      "Sprog er en nøgle til forståelse og forbindelse mellem mennesker. Når vi lærer et nyt sprog, åbner vi døre til nye kulturer og oplevelser, der kan berige vores liv.",
      "Taal is een krachtig middel om mensen met elkaar te verbinden. Door een nieuwe taal te leren, kunnen we de wereld om ons heen beter begrijpen en verschillende perspectieven ontdekken.",
-     "Hand gesture recognition plays a crucial role in human-computer interaction and sign language interpretation. The objective of this proposed system is to develop a hand gesture recognition system for controlling a media player",
+     "Hand gesture recognition plays a crucial role in human-computer interaction and sign language interpretation. The objective of this proposed system is to develop a hand gesture recognition system for controlling a media player for free use",
      "Keel on võimas tööriist inimeste vahelise suhtluse jaoks. Uue keele õppimine avab ukse uutele võimalustele ja aitab mõista erinevaid kultuure.",
      "La langue est un outil puissant pour établir des liens entre les gens. Apprendre une nouvelle langue permet de découvrir de nouvelles cultures et d'élargir ses horizons.",
    "Sprache ist ein wichtiger Schlüssel zur Verbindung von Menschen. Das Erlernen einer neuen Sprache eröffnet die Möglichkeit, andere Kulturen zu verstehen und die Welt anders zu sehen.",
